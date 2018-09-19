@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Customers>
+	<customer>
+		<name>vvvvvvv</name>
+		<lastName>vvvvv</lastName>
+		<address>vvvvvv</address>
+		<phone>vvvvvvv</phone>
+		<email>vvvvvv</email>
+		<profession>vvvvvvvv</profession>
+	</customer>
+	
+<customer>
+<name>aaaaaa</name>
+<lastName>aaaaaaaaaaaaaaaa</lastName>
+<address>aaaaaaaaaaaaaaaaaa</address>
+<phone>aaaaaaaaaaaaa</phone>
+<email>aaaaaaaaaaaaaaaa</email>
+<profession>aaaaaaaaaaaaa</profession>
+</customer>
+
+<customer>
+<name>kk</name><lastName>kkk</lastName><address>kkk</address><phone>kkk</phone><email>kkk</email><profession>kkkk</profession></customer><customer><name>zxczxc</name><lastName>zxczxc</lastName><address>zxczxc</address><phone>zxczxc</phone><email>zxczxc</email><profession>xczxc</profession></customer><customer><name>ccc</name><lastName>ccc</lastName><address>ccc</address><phone>ccc</phone><email>cc</email><profession>ccc</profession></customer><customer><name>ζζζζζζ</name><lastName>σσσσσ</lastName><address>σσσσσσσ</address><phone>σσσσσ</phone><email>σσσσσσσ</email><profession>σσσσ</profession></customer></Customers>
